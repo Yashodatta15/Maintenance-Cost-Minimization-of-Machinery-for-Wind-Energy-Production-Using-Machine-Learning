@@ -1,1 +1,1 @@
-# Maintenance-Cost-Minimization-of-Machinery-for-Wind-Energy-Production-Using-Machine-Learning
+# Maintenance Cost Minimization of Machinery for Wind Energy Production Using Machine Learning
